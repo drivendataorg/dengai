@@ -1,4 +1,4 @@
-[<img src='https://community.drivendata.org/uploads/default/optimized/1X/e055d38472b1ae95f54110375180ceb4449c026b_1_690x111.png'>](https://www.drivendata.org/)
+[<img src='https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png' style="max-width:85%;>](https://www.drivendata.org/)
 <br><br>
 
 ![Banner Image](https://s3.amazonaws.com:443/drivendata/comp_images/flickr-mosq.jpg)
@@ -19,6 +19,6 @@ This repository contains code volunteered from leading competitors in the [DengA
 
 Team or User | Score | Date of Rank | Rank | Folder | Programming Language
 --- | --- | --- | --- | --- | ---
-  |  |  |  |  |  
+  |  |  |  |  |
 
 Currently, no participants have submitted their solution.  If you're competing and want your work included, submit a pull request.
